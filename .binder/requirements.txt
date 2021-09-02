@@ -2,3 +2,5 @@ jupyter-offlinenotebook
 
 pandas
 parse
+
+nb_extension_tagstyler
